@@ -194,13 +194,11 @@ print("Predicted Income:", predict_new(model, new_person))
 
 ### Accuracy: 
 
-
-
+<img width="404" height="96" alt="image" src="https://github.com/user-attachments/assets/8b03efbf-8346-40f2-8603-1d0174e55855" />
 
 ### Predictions
 
-
-
+<img width="295" height="81" alt="image" src="https://github.com/user-attachments/assets/c5970402-bc74-44ba-9ba1-3354f9ccb20f" />
 
 ## RESULT
 The TabularModel was successfully trained to predict income categories from categorical and continuous features.
